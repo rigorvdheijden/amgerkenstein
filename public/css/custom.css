@@ -1,0 +1,13 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+	background-image: url("./img/jumbotron_bg.jpg");
+	background-size: cover;
+}
